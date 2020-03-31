@@ -1,0 +1,22 @@
+body{
+    background-color:lightslategray;
+    text-align: center;
+    margin-top: 50px;
+}
+
+h1{
+    font-size: 4.2rem;
+}
+
+.white-span{
+    color:white;
+}
+
+.green-span{
+    color: green;
+}
+
+.btn{
+    margin-top: 50px;
+}
+
